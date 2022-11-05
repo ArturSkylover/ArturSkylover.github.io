@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/zvezdy_zvezdnoe_nebo_chernyj_184789_1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    background-color: black;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 2vh;
+
+    text-shadow: 0 0 10px rgba(255, 255, 255, .40);
+}
+
+h2 {
+    color: rgba(255, 255, 255, 0.803);
+    font-size: 22px;
+    text-align: center;
+    padding-top: 4vh;
+    padding-left: 4vh;
+    padding-bottom: 4vh;
+
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+}
+
+h3 {
+    color: rgba(99, 79, 201, 0.803);
+    font-size: 35px;
+    text-align: left;
+    padding-top: 3vh;
+    padding-left: 5vh;
+    padding-bottom: 3vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+    z-index: 9999;
+}
+
+.li2 {
+    position: relative;
+    color: rgba(99, 79, 201, 0.804);
+    font-size: 25px;
+    text-align: left;
+    top: 0vh;
+    left: 9vh;
+    bottom: 8vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+    z-index: 9999;
+}
+
+.Moods {
+    position: relative;
+    color: rgba(99, 79, 201, 0.804);
+    font-size: 30px;
+    top: 4vh;
+    left: -9vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+}
+
+.Movies {
+    color: rgba(99, 79, 201, 0.803);
+    font-size: 35px;
+    text-align: left;
+    padding-top: 8vh;
+    padding-left: 5vh;
+    padding-bottom: 3vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+}
+
+.li1 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: left;
+    top: 3vh;
+    left: 10vh;
+    bottom: 10vh;
+    text-shadow: 0 0 10px rgba(255, 255, 255, .25);
+}
+
+.calc {
+    position: relative;
+    float: left;
+    left: 5vh;
+    width: 34vh;
+    height: 34vh;
+}
+
+.cs {
+    width: 34vh;
+    height: 34vh;
+}
+
+.me {
+    padding-top: 4vh;
+    width: 36vh;
+    height: 40vh;
+}
